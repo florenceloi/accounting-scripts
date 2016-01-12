@@ -22,3 +22,26 @@ melon_seedlessness = {
     5: False,
 }
 
+melon_flesh_color = {
+    1: "green",
+    2: "orange",
+    3: "orange",
+    4: "yellow",
+    5: "yellow",
+}
+
+melon_rind_color = {
+    1: "tan",
+    2: "yellow",
+    3: "green",
+    4: "yellow",
+    5: "tan",   
+}
+
+melon_avg_weight = {
+    1: 2.5,
+    2: 3.2,
+    3: 3.7,
+    4: 2.9,
+    5: 3.4,
+}
